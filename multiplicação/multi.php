@@ -13,4 +13,4 @@ for ($i = 0; $i < $num_2; $i++) {
 
 }
 
-echo "produtto". $resultado . "\n";
+echo "produtto: ". $resultado . "\n";
